@@ -1,0 +1,8 @@
+{"candidate_id":"C-101","stage":"applied","event_at":"2026-10-18T09:00:00+05:30","source":"referral"}
+{"candidate_id":"C-101","stage":"screened","event_at":"2026-10-19T10:30:00+05:30","source":"referral"}
+{"candidate_id":"C-102","stage":"applied","event_at":"2026-10-17T11:00:00+05:30","source":"job_board"}
+{"candidate_id":"C-102","stage":"screened","event_at":"2026-10-20T13:00:00+05:30","source":"job_board"}
+{"candidate_id":"C-103","stage":"interviewed","event_at":"2026-10-18T14:00:00+05:30","source":"campus"}
+{"candidate_id":"C-103","stage":"applied","event_at":"2026-10-18T15:00:00+05:30","source":"campus"}
+{"candidate_id":"C-104","stage":"applied","event_at":"2026-10-19T09:30:00+05:30","source":"direct"}
+{"candidate_id":"C-104","stage":"applied","event_at":"2026-10-19T09:35:00+05:30","source":"direct"}
